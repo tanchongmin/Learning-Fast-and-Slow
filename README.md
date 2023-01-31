@@ -1,5 +1,5 @@
 # Learning-Fast-and-Slow
-Implementation of a goal-directed, memory-based Reinforcement Learning agent
+Implementation of a goal-directed, memory-based Reinforcement Learning agent.
 
 Run the code in order to reproduce the experiments in the paper, "Learning, Fast and Slow"
 
