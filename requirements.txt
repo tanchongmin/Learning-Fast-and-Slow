@@ -1,0 +1,14 @@
+gym==0.21.0
+ipykernel==5.3.4
+ipython==7.9.0
+keras==2.11.0
+matplotlib==3.2.2
+numpy==1.21.6
+sb3-contrib==1.7.0
+stable-baselines3==1.7.0
+tensorflow==2.11.0
+torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp38-cp38-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu116/torchaudio-0.13.1%2Bcu116-cp38-cp38-linux_x86_64.whl
+torchsummary==1.5.1
+torchtext==0.14.1
+torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.1%2Bcu116-cp38-cp38-linux_x86_64.whl
